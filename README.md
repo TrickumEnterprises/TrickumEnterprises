@@ -6,6 +6,9 @@
 - <center>admin@trickumenterprise.com</center>
 Trickum Enterprises is a very small, up and coming business management firm.  We are using githubs large network base to boost exposure the businesses we will be managing.  Also we feel that this is the perfect place to build and launch a new and revelutionary trading platform that we are working on day and night.  We are working on the final stages of this application that we have named, G-Files.  We have overcome many set backs along the way.  Proof of my earlier statement.  While we're working around the clock we would encourage everyone to keep an eye out and stay tuned as we fine tune a pleasent future for gamers and create a new outpour of revenue to the world wide web!!!
 <br>There are many things in the works many parts in motion and you can watch it unfold here on get hub and at the its home domain <a href="https://trickumenterprise.com">https://trickumenterprise.com</a> as the evolution becomes real!!!  Stick around and follow us to see it all go down and <br> <center>Get your F#$!%"in Game on!!!</center>
+
+<iframe src="https://github.com/sponsors/TrickumEnterprises/button" title="Sponsor TrickumEnterprises" height="35" width="116" style="border: 0;"></iframe>
+
 <!---
 TrickumEnterprises/TrickumEnterprises is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
